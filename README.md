@@ -40,12 +40,8 @@ This is the command to create hashes from files and to verify if a hash matches 
 
 This is the command to create MHL files from pairs of hashes and files. Furthermore, it is the command to parse MHL files and output the contained pairs of hashes and files.
 
-
-#### Installation and build
-
-Precompiled binaries for OS X, Windows and Linux can be downloaded from http://pomfort.com/download
-
 #### Dependencies
+
 MHL Tool has very little dependencies. The source code for xxhash (https://github.com/Cyan4973/xxHash) is included in the repository.
 
 #### Building on OS X
